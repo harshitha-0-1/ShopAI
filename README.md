@@ -160,3 +160,7 @@ ShopAI/
 ### 🏠 Home Page
 
 ![ShopAI Home Page](screenshots/home.png)
+
+### 🛍️ Product Details
+
+![ShopAI Product Details](screenshots/product-details.png)
