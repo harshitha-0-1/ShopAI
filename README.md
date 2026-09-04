@@ -154,7 +154,6 @@ ShopAI/
 
 └── README.md
 
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -168,3 +167,7 @@ ShopAI/
 ### 🛒 Shopping Cart
 
 ![ShopAI Shopping Cart](screenshots/cart.png)
+
+### ⭐ Reviews & 🤖 Recommendations
+
+![ShopAI Reviews and Recommendations](screenshots/reviews-recommendations.png)
