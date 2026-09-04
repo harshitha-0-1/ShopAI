@@ -154,3 +154,9 @@ ShopAI/
 
 └── README.md
 
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![ShopAI Home Page](screenshots/home.png)
