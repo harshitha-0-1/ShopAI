@@ -164,3 +164,7 @@ ShopAI/
 ### 🛍️ Product Details
 
 ![ShopAI Product Details](screenshots/product-details.png)
+
+### 🛒 Shopping Cart
+
+![ShopAI Shopping Cart](screenshots/cart.png)
